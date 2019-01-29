@@ -1,0 +1,11 @@
+LEXICAL ENVIRONMENT: 
+    Where something sits physically in the code you write.
+
+The word lexical basically means anything related with something's syntax, grammar ( i.e the code, its vocabulary). 
+basically it means where you write something and what surrounds it!
+
+in programming language like javascript, where you write something is important. it is important because 
+it tells js engine what a particular variable sits in your program and it let the programmers knows how it will interact with the other variables and functions there!
+
+its the syntax parser that cares about where you write something so that it helps you in knowing where it will sits in computer memory!
+because it will sits at the same place in the code you will write it.
